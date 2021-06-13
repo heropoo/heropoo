@@ -1,9 +1,3 @@
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=heropoo&theme=flat">
-</p>
-
-
 My Blog [https://metmoon.com/](https://metmoon.com/)
     
 ## Statistics
