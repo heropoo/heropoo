@@ -1,6 +1,4 @@
 Hi, I'm Heropoo~ Welcome!
-
-My Blog ☞ [https://metmoon.com/](https://metmoon.com/)
     
 ![](https://github-readme-stats.vercel.app/api?username=heropoo&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heropoo&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
